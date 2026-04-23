@@ -72,11 +72,11 @@ transform = transforms.Compose([
     transforms.Normalize(mean=MEAN, std=STD),
 ])
 
-pub_ds.transform = transform
-priv_ds.transform = transform
+# pub_ds.transform = transform
+# priv_ds.transform = transform
 
-pub_ds = torch.load("pub.pt", weights_only=False)
-priv_ds = torch.load("priv.pt", weights_only=False)
+# pub_ds = torch.load("pub.pt", weights_only=False)
+# priv_ds = torch.load("priv.pt", weights_only=False)
 
 pub_ds.transform = transform    # attach normalization after loading
 priv_ds.transform = transform
