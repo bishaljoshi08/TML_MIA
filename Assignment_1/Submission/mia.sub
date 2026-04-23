@@ -1,7 +1,7 @@
 universe = docker
 docker_image = pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
 executable = /opt/conda/bin/python
-arguments = /home/atml_team006/TML/Assignment 1/Solution/task_template.py
+arguments = /home/atml_team006/TML/Assignment\ 1/Solution/task_template.py
 output = runlogs/mia.$(ClusterId).$(ProcId).out
 error = runlogs/mia.$(ClusterId).$(ProcId).err
 log = runlogs/mia.$(ClusterId).log
