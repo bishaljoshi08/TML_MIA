@@ -100,38 +100,38 @@ model = model.to(device)
 
 
 # create random submission (remove this later or it will rewrite your actual submission)
-# print("Creating random submission...")
-# ids = [str(i) for i in priv_ds.ids]
-
-# df = pd.DataFrame({
-#     "id": ids,
-#     "score": [random.random() for _ in ids]
-# })
-
-# df.to_csv(OUTPUT_CSV, index=False)
-# print("Saved:", OUTPUT_CSV)
-all_ids = []
-all_scores = []
-criterion = torch.nn.CrossEntropyLoss(reduction="none")  # one loss value per sample
-
-with torch.no_grad():
-    for id_, imgs, labels, _ in loader:
-        imgs = imgs.to(device)
-        labels = labels.to(device)
-        logits = model(imgs)
-        loss = criterion(logits, labels).cpu().numpy()
-        scores = -loss      # negate: lower loss = more member-like
-
-        all_ids.extend(id_.tolist())
-        all_scores.extend(scores.tolist())
+print("Creating random submission...")
+ids = [str(i) for i in priv_ds.ids]
 
 df = pd.DataFrame({
-    "id": all_ids,
-    "score": all_scores
+    "id": ids,
+    "score": [random.random() for _ in ids]
 })
 
 df.to_csv(OUTPUT_CSV, index=False)
 print("Saved:", OUTPUT_CSV)
+# all_ids = []
+# all_scores = []
+# criterion = torch.nn.CrossEntropyLoss(reduction="none")  # one loss value per sample
+
+# with torch.no_grad():
+#     for id_, imgs, labels, _ in loader:
+#         imgs = imgs.to(device)
+#         labels = labels.to(device)
+#         logits = model(imgs)
+#         loss = criterion(logits, labels).cpu().numpy()
+#         scores = -loss      # negate: lower loss = more member-like
+
+#         all_ids.extend(id_.tolist())
+#         all_scores.extend(scores.tolist())
+
+# df = pd.DataFrame({
+#     "id": all_ids,
+#     "score": all_scores
+# })
+
+# df.to_csv(OUTPUT_CSV, index=False)
+# print("Saved:", OUTPUT_CSV)
 
 # submit
 def die(msg):
