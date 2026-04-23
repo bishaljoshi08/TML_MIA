@@ -12,6 +12,7 @@ from torchvision.models import resnet18
 import torchvision.transforms as transforms
 
 from torch.utils.data import DataLoader
+import torch.nn.functional as F
 
 # config
 BASE = Path(__file__).parent
@@ -123,6 +124,14 @@ with torch.no_grad():
 
         all_ids.extend(id_.tolist())
         all_scores.extend(scores.tolist())
+
+df = pd.DataFrame({
+    "id": all_ids,
+    "score": all_scores
+})
+
+df.to_csv(OUTPUT_CSV, index=False)
+print("Saved:", OUTPUT_CSV)
 
 # submit
 def die(msg):
