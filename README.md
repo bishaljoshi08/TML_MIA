@@ -161,3 +161,11 @@ attack_model = XGBClassifier(
 
 <b>Results:</b> This final uncapped XGBoost approach yielded our best results, achieving a True Positive Rate (TPR) of <b>0.07 at a 5% False Positive Rate (FPR)</b> on the validation set.
 [Output Reference](https://github.com/bishaljoshi08/TML_MIA/blob/d2da5c2c3da6b5704dbdee2051eeb567ba343d20/Assignment_1/output_logs/run.sh.mia.84204.out#L1632).
+
+## Recreating the final approach:
+
+Use this [submission file](https://github.com/bishaljoshi08/TML_MIA/blob/main/Assignment_1/Submission/mia.sub) to submit the `task_template.py` to the cluster
+
+### Note:
+
+Due to the use of high-performance computing cluster, we modified the .py file itself. While the corresponding .py files in this submission contain commented-out code blocks reflecting these changes, the exact iterations of the scripts used for those runs were not preserved as separate files. However, all relevant experimental results and logs are available in the provided output files. Moving forward, we will implement a more rigorous version control process—either by maintaining distinct scripts for cluster environments or documenting all iterations within a unified notebook—to ensure full reproducibility of the codebase alongside the results.
