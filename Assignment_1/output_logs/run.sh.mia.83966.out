@@ -1,0 +1,292 @@
+no change     /scratch/bjoshi/miniconda3/condabin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda-env
+no change     /scratch/bjoshi/miniconda3/bin/activate
+no change     /scratch/bjoshi/miniconda3/bin/deactivate
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.sh
+no change     /scratch/bjoshi/miniconda3/etc/fish/conf.d/conda.fish
+no change     /scratch/bjoshi/miniconda3/shell/condabin/Conda.psm1
+no change     /scratch/bjoshi/miniconda3/shell/condabin/conda-hook.ps1
+no change     /scratch/bjoshi/miniconda3/lib/python3.13/site-packages/xontrib/conda.xsh
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.csh
+no change     /nethome/bjoshi/.bashrc
+No action taken.
+Loading datasets...
+
+--- Training 10 Shadow Models ---
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 1/10, Epoch 1/10, Loss: 0.0256, Correct: 461, Accuracy: 0.4199
+Shadow Model 1/10, Epoch 2/10, Loss: 0.0187, Correct: 621, Accuracy: 0.5656
+Shadow Model 1/10, Epoch 3/10, Loss: 0.0170, Correct: 685, Accuracy: 0.6239
+Shadow Model 1/10, Epoch 4/10, Loss: 0.0164, Correct: 709, Accuracy: 0.6457
+Shadow Model 1/10, Epoch 5/10, Loss: 0.0164, Correct: 687, Accuracy: 0.6257
+Shadow Model 1/10, Epoch 6/10, Loss: 0.0142, Correct: 731, Accuracy: 0.6658
+Shadow Model 1/10, Epoch 7/10, Loss: 0.0136, Correct: 758, Accuracy: 0.6903
+Shadow Model 1/10, Epoch 8/10, Loss: 0.0130, Correct: 788, Accuracy: 0.7177
+Shadow Model 1/10, Epoch 9/10, Loss: 0.0125, Correct: 792, Accuracy: 0.7213
+Shadow Model 1/10, Epoch 10/10, Loss: 0.0114, Correct: 822, Accuracy: 0.7486
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 2/10, Epoch 1/10, Loss: 0.0273, Correct: 432, Accuracy: 0.3934
+Shadow Model 2/10, Epoch 2/10, Loss: 0.0205, Correct: 574, Accuracy: 0.5228
+Shadow Model 2/10, Epoch 3/10, Loss: 0.0190, Correct: 626, Accuracy: 0.5701
+Shadow Model 2/10, Epoch 4/10, Loss: 0.0167, Correct: 670, Accuracy: 0.6102
+Shadow Model 2/10, Epoch 5/10, Loss: 0.0172, Correct: 669, Accuracy: 0.6093
+Shadow Model 2/10, Epoch 6/10, Loss: 0.0153, Correct: 733, Accuracy: 0.6676
+Shadow Model 2/10, Epoch 7/10, Loss: 0.0146, Correct: 737, Accuracy: 0.6712
+Shadow Model 2/10, Epoch 8/10, Loss: 0.0131, Correct: 759, Accuracy: 0.6913
+Shadow Model 2/10, Epoch 9/10, Loss: 0.0161, Correct: 753, Accuracy: 0.6858
+Shadow Model 2/10, Epoch 10/10, Loss: 0.0138, Correct: 756, Accuracy: 0.6885
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 3/10, Epoch 1/10, Loss: 0.0248, Correct: 492, Accuracy: 0.4481
+Shadow Model 3/10, Epoch 2/10, Loss: 0.0188, Correct: 638, Accuracy: 0.5811
+Shadow Model 3/10, Epoch 3/10, Loss: 0.0195, Correct: 626, Accuracy: 0.5701
+Shadow Model 3/10, Epoch 4/10, Loss: 0.0175, Correct: 677, Accuracy: 0.6166
+Shadow Model 3/10, Epoch 5/10, Loss: 0.0170, Correct: 678, Accuracy: 0.6175
+Shadow Model 3/10, Epoch 6/10, Loss: 0.0164, Correct: 689, Accuracy: 0.6275
+Shadow Model 3/10, Epoch 7/10, Loss: 0.0160, Correct: 712, Accuracy: 0.6485
+Shadow Model 3/10, Epoch 8/10, Loss: 0.0145, Correct: 716, Accuracy: 0.6521
+Shadow Model 3/10, Epoch 9/10, Loss: 0.0144, Correct: 764, Accuracy: 0.6958
+Shadow Model 3/10, Epoch 10/10, Loss: 0.0146, Correct: 750, Accuracy: 0.6831
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 4/10, Epoch 1/10, Loss: 0.0276, Correct: 448, Accuracy: 0.4080
+Shadow Model 4/10, Epoch 2/10, Loss: 0.0199, Correct: 587, Accuracy: 0.5346
+Shadow Model 4/10, Epoch 3/10, Loss: 0.0177, Correct: 650, Accuracy: 0.5920
+Shadow Model 4/10, Epoch 4/10, Loss: 0.0186, Correct: 652, Accuracy: 0.5938
+Shadow Model 4/10, Epoch 5/10, Loss: 0.0188, Correct: 636, Accuracy: 0.5792
+Shadow Model 4/10, Epoch 6/10, Loss: 0.0161, Correct: 664, Accuracy: 0.6047
+Shadow Model 4/10, Epoch 7/10, Loss: 0.0140, Correct: 743, Accuracy: 0.6767
+Shadow Model 4/10, Epoch 8/10, Loss: 0.0142, Correct: 759, Accuracy: 0.6913
+Shadow Model 4/10, Epoch 9/10, Loss: 0.0143, Correct: 748, Accuracy: 0.6812
+Shadow Model 4/10, Epoch 10/10, Loss: 0.0137, Correct: 752, Accuracy: 0.6849
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 5/10, Epoch 1/10, Loss: 0.0271, Correct: 502, Accuracy: 0.4572
+Shadow Model 5/10, Epoch 2/10, Loss: 0.0205, Correct: 591, Accuracy: 0.5383
+Shadow Model 5/10, Epoch 3/10, Loss: 0.0182, Correct: 652, Accuracy: 0.5938
+Shadow Model 5/10, Epoch 4/10, Loss: 0.0160, Correct: 698, Accuracy: 0.6357
+Shadow Model 5/10, Epoch 5/10, Loss: 0.0156, Correct: 722, Accuracy: 0.6576
+Shadow Model 5/10, Epoch 6/10, Loss: 0.0147, Correct: 719, Accuracy: 0.6548
+Shadow Model 5/10, Epoch 7/10, Loss: 0.0142, Correct: 742, Accuracy: 0.6758
+Shadow Model 5/10, Epoch 8/10, Loss: 0.0133, Correct: 759, Accuracy: 0.6913
+Shadow Model 5/10, Epoch 9/10, Loss: 0.0132, Correct: 791, Accuracy: 0.7204
+Shadow Model 5/10, Epoch 10/10, Loss: 0.0132, Correct: 773, Accuracy: 0.7040
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 6/10, Epoch 1/10, Loss: 0.0257, Correct: 476, Accuracy: 0.4335
+Shadow Model 6/10, Epoch 2/10, Loss: 0.0218, Correct: 595, Accuracy: 0.5419
+Shadow Model 6/10, Epoch 3/10, Loss: 0.0176, Correct: 666, Accuracy: 0.6066
+Shadow Model 6/10, Epoch 4/10, Loss: 0.0162, Correct: 686, Accuracy: 0.6248
+Shadow Model 6/10, Epoch 5/10, Loss: 0.0174, Correct: 687, Accuracy: 0.6257
+Shadow Model 6/10, Epoch 6/10, Loss: 0.0172, Correct: 690, Accuracy: 0.6284
+Shadow Model 6/10, Epoch 7/10, Loss: 0.0168, Correct: 693, Accuracy: 0.6311
+Shadow Model 6/10, Epoch 8/10, Loss: 0.0147, Correct: 755, Accuracy: 0.6876
+Shadow Model 6/10, Epoch 9/10, Loss: 0.0138, Correct: 759, Accuracy: 0.6913
+Shadow Model 6/10, Epoch 10/10, Loss: 0.0122, Correct: 800, Accuracy: 0.7286
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 7/10, Epoch 1/10, Loss: 0.0253, Correct: 475, Accuracy: 0.4326
+Shadow Model 7/10, Epoch 2/10, Loss: 0.0181, Correct: 623, Accuracy: 0.5674
+Shadow Model 7/10, Epoch 3/10, Loss: 0.0167, Correct: 657, Accuracy: 0.5984
+Shadow Model 7/10, Epoch 4/10, Loss: 0.0177, Correct: 693, Accuracy: 0.6311
+Shadow Model 7/10, Epoch 5/10, Loss: 0.0161, Correct: 692, Accuracy: 0.6302
+Shadow Model 7/10, Epoch 6/10, Loss: 0.0156, Correct: 721, Accuracy: 0.6566
+Shadow Model 7/10, Epoch 7/10, Loss: 0.0148, Correct: 745, Accuracy: 0.6785
+Shadow Model 7/10, Epoch 8/10, Loss: 0.0138, Correct: 745, Accuracy: 0.6785
+Shadow Model 7/10, Epoch 9/10, Loss: 0.0138, Correct: 750, Accuracy: 0.6831
+Shadow Model 7/10, Epoch 10/10, Loss: 0.0118, Correct: 800, Accuracy: 0.7286
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 8/10, Epoch 1/10, Loss: 0.0258, Correct: 483, Accuracy: 0.4399
+Shadow Model 8/10, Epoch 2/10, Loss: 0.0197, Correct: 631, Accuracy: 0.5747
+Shadow Model 8/10, Epoch 3/10, Loss: 0.0168, Correct: 674, Accuracy: 0.6138
+Shadow Model 8/10, Epoch 4/10, Loss: 0.0184, Correct: 693, Accuracy: 0.6311
+Shadow Model 8/10, Epoch 5/10, Loss: 0.0156, Correct: 722, Accuracy: 0.6576
+Shadow Model 8/10, Epoch 6/10, Loss: 0.0155, Correct: 730, Accuracy: 0.6648
+Shadow Model 8/10, Epoch 7/10, Loss: 0.0138, Correct: 742, Accuracy: 0.6758
+Shadow Model 8/10, Epoch 8/10, Loss: 0.0151, Correct: 725, Accuracy: 0.6603
+Shadow Model 8/10, Epoch 9/10, Loss: 0.0121, Correct: 811, Accuracy: 0.7386
+Shadow Model 8/10, Epoch 10/10, Loss: 0.0111, Correct: 840, Accuracy: 0.7650
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 9/10, Epoch 1/10, Loss: 0.0256, Correct: 474, Accuracy: 0.4317
+Shadow Model 9/10, Epoch 2/10, Loss: 0.0182, Correct: 643, Accuracy: 0.5856
+Shadow Model 9/10, Epoch 3/10, Loss: 0.0175, Correct: 665, Accuracy: 0.6056
+Shadow Model 9/10, Epoch 4/10, Loss: 0.0199, Correct: 619, Accuracy: 0.5638
+Shadow Model 9/10, Epoch 5/10, Loss: 0.0169, Correct: 691, Accuracy: 0.6293
+Shadow Model 9/10, Epoch 6/10, Loss: 0.0146, Correct: 746, Accuracy: 0.6794
+Shadow Model 9/10, Epoch 7/10, Loss: 0.0155, Correct: 757, Accuracy: 0.6894
+Shadow Model 9/10, Epoch 8/10, Loss: 0.0143, Correct: 762, Accuracy: 0.6940
+Shadow Model 9/10, Epoch 9/10, Loss: 0.0158, Correct: 732, Accuracy: 0.6667
+Shadow Model 9/10, Epoch 10/10, Loss: 0.0131, Correct: 798, Accuracy: 0.7268
+  Min class size: 1222
+  Samples per class (IN): 122
+  Class 0: 1515 total → 122 IN selected
+  Class 1: 1548 total → 122 IN selected
+  Class 2: 1546 total → 122 IN selected
+  Class 3: 1581 total → 122 IN selected
+  Class 4: 1348 total → 122 IN selected
+  Class 5: 1795 total → 122 IN selected
+  Class 6: 1222 total → 122 IN selected
+  Class 7: 1405 total → 122 IN selected
+  Class 8: 2040 total → 122 IN selected
+Shadow Model 10/10, Epoch 1/10, Loss: 0.0246, Correct: 474, Accuracy: 0.4317
+Shadow Model 10/10, Epoch 2/10, Loss: 0.0184, Correct: 672, Accuracy: 0.6120
+Shadow Model 10/10, Epoch 3/10, Loss: 0.0176, Correct: 663, Accuracy: 0.6038
+Shadow Model 10/10, Epoch 4/10, Loss: 0.0180, Correct: 703, Accuracy: 0.6403
+Shadow Model 10/10, Epoch 5/10, Loss: 0.0173, Correct: 684, Accuracy: 0.6230
+Shadow Model 10/10, Epoch 6/10, Loss: 0.0172, Correct: 685, Accuracy: 0.6239
+Shadow Model 10/10, Epoch 7/10, Loss: 0.0167, Correct: 730, Accuracy: 0.6648
+Shadow Model 10/10, Epoch 8/10, Loss: 0.0144, Correct: 758, Accuracy: 0.6903
+Shadow Model 10/10, Epoch 9/10, Loss: 0.0127, Correct: 808, Accuracy: 0.7359
+Shadow Model 10/10, Epoch 10/10, Loss: 0.0132, Correct: 797, Accuracy: 0.7259
+
+--- Attack Dataset ---
+(140000, 11) (140000,)
+Attack training set: (112000, 11), (112000,)
+Attack validation set: (28000, 11), (28000,)
+
+--- Training Attack Model ---
+Initializing attack model, optimizer
+Starting attack model training loop
+Epoch 1/50 | Train Loss: 0.2727 Acc: 0.9224 | AUC: 0.5321 TPR@5%FPR: 0.0603
+Epoch 2/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5302 TPR@5%FPR: 0.0589
+Epoch 3/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5322 TPR@5%FPR: 0.0570
+Epoch 4/50 | Train Loss: 0.2723 Acc: 0.9224 | AUC: 0.5365 TPR@5%FPR: 0.0607
+Epoch 5/50 | Train Loss: 0.2723 Acc: 0.9224 | AUC: 0.5282 TPR@5%FPR: 0.0570
+Epoch 6/50 | Train Loss: 0.2725 Acc: 0.9224 | AUC: 0.5359 TPR@5%FPR: 0.0630
+Epoch 7/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5360 TPR@5%FPR: 0.0626
+Epoch 8/50 | Train Loss: 0.2734 Acc: 0.9224 | AUC: 0.5349 TPR@5%FPR: 0.0603
+Epoch 9/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5362 TPR@5%FPR: 0.0626
+Epoch 10/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5389 TPR@5%FPR: 0.0607
+Epoch 11/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5329 TPR@5%FPR: 0.0607
+Epoch 12/50 | Train Loss: 0.2723 Acc: 0.9224 | AUC: 0.5379 TPR@5%FPR: 0.0667
+Epoch 13/50 | Train Loss: 0.2723 Acc: 0.9224 | AUC: 0.5354 TPR@5%FPR: 0.0630
+Epoch 14/50 | Train Loss: 0.2729 Acc: 0.9224 | AUC: 0.5350 TPR@5%FPR: 0.0630
+Epoch 15/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5376 TPR@5%FPR: 0.0612
+Epoch 16/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5389 TPR@5%FPR: 0.0649
+Epoch 17/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5373 TPR@5%FPR: 0.0649
+Epoch 18/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5306 TPR@5%FPR: 0.0557
+Epoch 19/50 | Train Loss: 0.2739 Acc: 0.9224 | AUC: 0.5352 TPR@5%FPR: 0.0630
+Epoch 20/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5344 TPR@5%FPR: 0.0635
+Epoch 21/50 | Train Loss: 0.2727 Acc: 0.9224 | AUC: 0.5370 TPR@5%FPR: 0.0630
+Epoch 22/50 | Train Loss: 0.2726 Acc: 0.9224 | AUC: 0.5373 TPR@5%FPR: 0.0644
+Epoch 23/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5386 TPR@5%FPR: 0.0662
+Epoch 24/50 | Train Loss: 0.2724 Acc: 0.9224 | AUC: 0.5305 TPR@5%FPR: 0.0561
+Epoch 25/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5361 TPR@5%FPR: 0.0649
+Epoch 26/50 | Train Loss: 0.2732 Acc: 0.9224 | AUC: 0.5349 TPR@5%FPR: 0.0662
+Epoch 27/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5384 TPR@5%FPR: 0.0667
+Epoch 28/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5369 TPR@5%FPR: 0.0644
+Epoch 29/50 | Train Loss: 0.2724 Acc: 0.9224 | AUC: 0.5336 TPR@5%FPR: 0.0616
+Epoch 30/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5376 TPR@5%FPR: 0.0653
+Epoch 31/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5390 TPR@5%FPR: 0.0621
+Epoch 32/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5324 TPR@5%FPR: 0.0575
+Epoch 33/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5349 TPR@5%FPR: 0.0653
+Epoch 34/50 | Train Loss: 0.2731 Acc: 0.9224 | AUC: 0.5336 TPR@5%FPR: 0.0598
+Epoch 35/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5375 TPR@5%FPR: 0.0690
+Epoch 36/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5369 TPR@5%FPR: 0.0644
+Epoch 37/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5376 TPR@5%FPR: 0.0635
+Epoch 38/50 | Train Loss: 0.2722 Acc: 0.9224 | AUC: 0.5366 TPR@5%FPR: 0.0616
+Epoch 39/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5362 TPR@5%FPR: 0.0635
+Epoch 40/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5346 TPR@5%FPR: 0.0598
+Epoch 41/50 | Train Loss: 0.2724 Acc: 0.9224 | AUC: 0.5364 TPR@5%FPR: 0.0612
+Epoch 42/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5361 TPR@5%FPR: 0.0653
+Epoch 43/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5399 TPR@5%FPR: 0.0616
+Epoch 44/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5339 TPR@5%FPR: 0.0593
+Epoch 45/50 | Train Loss: 0.2726 Acc: 0.9224 | AUC: 0.5347 TPR@5%FPR: 0.0630
+Epoch 46/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5346 TPR@5%FPR: 0.0598
+Epoch 47/50 | Train Loss: 0.2721 Acc: 0.9224 | AUC: 0.5325 TPR@5%FPR: 0.0506
+Epoch 48/50 | Train Loss: 0.2723 Acc: 0.9224 | AUC: 0.5344 TPR@5%FPR: 0.0635
+Epoch 49/50 | Train Loss: 0.2725 Acc: 0.9224 | AUC: 0.5323 TPR@5%FPR: 0.0511
+Epoch 50/50 | Train Loss: 0.2720 Acc: 0.9224 | AUC: 0.5365 TPR@5%FPR: 0.0621
+Loading model...
+
+--- Predicting Membership ---
+Saved: /scratch/bjoshi/TML/submission.csv
+Successfully submitted.
+Server response: {'submission_id': 940, 'status': 'success', 'message': 'Submission evaluated successfully! Check the leaderboard to see your score.'}
+Submission ID: 940

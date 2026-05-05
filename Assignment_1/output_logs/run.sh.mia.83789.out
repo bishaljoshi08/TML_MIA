@@ -1,0 +1,17 @@
+no change     /scratch/bjoshi/miniconda3/condabin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda-env
+no change     /scratch/bjoshi/miniconda3/bin/activate
+no change     /scratch/bjoshi/miniconda3/bin/deactivate
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.sh
+no change     /scratch/bjoshi/miniconda3/etc/fish/conf.d/conda.fish
+no change     /scratch/bjoshi/miniconda3/shell/condabin/Conda.psm1
+no change     /scratch/bjoshi/miniconda3/shell/condabin/conda-hook.ps1
+no change     /scratch/bjoshi/miniconda3/lib/python3.13/site-packages/xontrib/conda.xsh
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.csh
+no change     /nethome/bjoshi/.bashrc
+No action taken.
+Loading datasets...
+Loading model...
+ROC AUC: 0.502139
+Saved ROC plot to: /scratch/bjoshi/TML/roc.png

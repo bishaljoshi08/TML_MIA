@@ -1,0 +1,390 @@
+no change     /scratch/bjoshi/miniconda3/condabin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda
+no change     /scratch/bjoshi/miniconda3/bin/conda-env
+no change     /scratch/bjoshi/miniconda3/bin/activate
+no change     /scratch/bjoshi/miniconda3/bin/deactivate
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.sh
+no change     /scratch/bjoshi/miniconda3/etc/fish/conf.d/conda.fish
+no change     /scratch/bjoshi/miniconda3/shell/condabin/Conda.psm1
+no change     /scratch/bjoshi/miniconda3/shell/condabin/conda-hook.ps1
+no change     /scratch/bjoshi/miniconda3/lib/python3.13/site-packages/xontrib/conda.xsh
+no change     /scratch/bjoshi/miniconda3/etc/profile.d/conda.csh
+no change     /nethome/bjoshi/.bashrc
+No action taken.
+Loading datasets...
+
+--- Training 10 Shadow Models ---
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 1/10, Epoch 1/10, Loss: 1.1815, Correct: 3134, Accuracy: 0.5709
+Shadow Model 1/10, Epoch 2/10, Loss: 0.8801, Correct: 3695, Accuracy: 0.6730
+Shadow Model 1/10, Epoch 3/10, Loss: 0.7346, Correct: 4002, Accuracy: 0.7290
+Shadow Model 1/10, Epoch 4/10, Loss: 0.6010, Correct: 4299, Accuracy: 0.7831
+Shadow Model 1/10, Epoch 5/10, Loss: 0.5651, Correct: 4373, Accuracy: 0.7965
+Shadow Model 1/10, Epoch 6/10, Loss: 0.4988, Correct: 4531, Accuracy: 0.8253
+Shadow Model 1/10, Epoch 7/10, Loss: 0.4272, Correct: 4663, Accuracy: 0.8494
+Shadow Model 1/10, Epoch 8/10, Loss: 0.3955, Correct: 4697, Accuracy: 0.8556
+Shadow Model 1/10, Epoch 9/10, Loss: 0.3439, Correct: 4816, Accuracy: 0.8772
+Shadow Model 1/10, Epoch 10/10, Loss: 0.3344, Correct: 4864, Accuracy: 0.8860
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 2/10, Epoch 1/10, Loss: 1.1169, Correct: 3199, Accuracy: 0.5827
+Shadow Model 2/10, Epoch 2/10, Loss: 0.8765, Correct: 3715, Accuracy: 0.6767
+Shadow Model 2/10, Epoch 3/10, Loss: 0.7117, Correct: 4096, Accuracy: 0.7461
+Shadow Model 2/10, Epoch 4/10, Loss: 0.6622, Correct: 4216, Accuracy: 0.7679
+Shadow Model 2/10, Epoch 5/10, Loss: 0.5498, Correct: 4464, Accuracy: 0.8131
+Shadow Model 2/10, Epoch 6/10, Loss: 0.4983, Correct: 4532, Accuracy: 0.8255
+Shadow Model 2/10, Epoch 7/10, Loss: 0.4367, Correct: 4658, Accuracy: 0.8485
+Shadow Model 2/10, Epoch 8/10, Loss: 0.4045, Correct: 4698, Accuracy: 0.8557
+Shadow Model 2/10, Epoch 9/10, Loss: 0.3490, Correct: 4801, Accuracy: 0.8745
+Shadow Model 2/10, Epoch 10/10, Loss: 0.3496, Correct: 4805, Accuracy: 0.8752
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 3/10, Epoch 1/10, Loss: 1.1645, Correct: 3174, Accuracy: 0.5781
+Shadow Model 3/10, Epoch 2/10, Loss: 0.8536, Correct: 3783, Accuracy: 0.6891
+Shadow Model 3/10, Epoch 3/10, Loss: 0.7678, Correct: 3991, Accuracy: 0.7270
+Shadow Model 3/10, Epoch 4/10, Loss: 0.6463, Correct: 4200, Accuracy: 0.7650
+Shadow Model 3/10, Epoch 5/10, Loss: 0.5398, Correct: 4432, Accuracy: 0.8073
+Shadow Model 3/10, Epoch 6/10, Loss: 0.5023, Correct: 4487, Accuracy: 0.8173
+Shadow Model 3/10, Epoch 7/10, Loss: 0.4405, Correct: 4655, Accuracy: 0.8479
+Shadow Model 3/10, Epoch 8/10, Loss: 0.4085, Correct: 4683, Accuracy: 0.8530
+Shadow Model 3/10, Epoch 9/10, Loss: 0.3624, Correct: 4802, Accuracy: 0.8747
+Shadow Model 3/10, Epoch 10/10, Loss: 0.3128, Correct: 4895, Accuracy: 0.8916
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 4/10, Epoch 1/10, Loss: 1.2074, Correct: 3057, Accuracy: 0.5568
+Shadow Model 4/10, Epoch 2/10, Loss: 0.9139, Correct: 3641, Accuracy: 0.6632
+Shadow Model 4/10, Epoch 3/10, Loss: 0.7768, Correct: 3940, Accuracy: 0.7177
+Shadow Model 4/10, Epoch 4/10, Loss: 0.7014, Correct: 4081, Accuracy: 0.7434
+Shadow Model 4/10, Epoch 5/10, Loss: 0.6269, Correct: 4249, Accuracy: 0.7740
+Shadow Model 4/10, Epoch 6/10, Loss: 0.5550, Correct: 4428, Accuracy: 0.8066
+Shadow Model 4/10, Epoch 7/10, Loss: 0.4996, Correct: 4577, Accuracy: 0.8337
+Shadow Model 4/10, Epoch 8/10, Loss: 0.4230, Correct: 4673, Accuracy: 0.8512
+Shadow Model 4/10, Epoch 9/10, Loss: 0.3825, Correct: 4747, Accuracy: 0.8647
+Shadow Model 4/10, Epoch 10/10, Loss: 0.3617, Correct: 4778, Accuracy: 0.8703
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 5/10, Epoch 1/10, Loss: 1.1720, Correct: 3110, Accuracy: 0.5665
+Shadow Model 5/10, Epoch 2/10, Loss: 0.9050, Correct: 3673, Accuracy: 0.6690
+Shadow Model 5/10, Epoch 3/10, Loss: 0.8089, Correct: 3901, Accuracy: 0.7106
+Shadow Model 5/10, Epoch 4/10, Loss: 0.6276, Correct: 4277, Accuracy: 0.7791
+Shadow Model 5/10, Epoch 5/10, Loss: 0.5591, Correct: 4402, Accuracy: 0.8018
+Shadow Model 5/10, Epoch 6/10, Loss: 0.5032, Correct: 4521, Accuracy: 0.8235
+Shadow Model 5/10, Epoch 7/10, Loss: 0.4130, Correct: 4729, Accuracy: 0.8614
+Shadow Model 5/10, Epoch 8/10, Loss: 0.3764, Correct: 4763, Accuracy: 0.8676
+Shadow Model 5/10, Epoch 9/10, Loss: 0.3663, Correct: 4770, Accuracy: 0.8689
+Shadow Model 5/10, Epoch 10/10, Loss: 0.2970, Correct: 4921, Accuracy: 0.8964
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 6/10, Epoch 1/10, Loss: 1.1638, Correct: 3174, Accuracy: 0.5781
+Shadow Model 6/10, Epoch 2/10, Loss: 0.8536, Correct: 3756, Accuracy: 0.6842
+Shadow Model 6/10, Epoch 3/10, Loss: 0.6921, Correct: 4153, Accuracy: 0.7565
+Shadow Model 6/10, Epoch 4/10, Loss: 0.6109, Correct: 4292, Accuracy: 0.7818
+Shadow Model 6/10, Epoch 5/10, Loss: 0.5684, Correct: 4392, Accuracy: 0.8000
+Shadow Model 6/10, Epoch 6/10, Loss: 0.4897, Correct: 4524, Accuracy: 0.8240
+Shadow Model 6/10, Epoch 7/10, Loss: 0.4423, Correct: 4614, Accuracy: 0.8404
+Shadow Model 6/10, Epoch 8/10, Loss: 0.3877, Correct: 4731, Accuracy: 0.8617
+Shadow Model 6/10, Epoch 9/10, Loss: 0.3449, Correct: 4847, Accuracy: 0.8829
+Shadow Model 6/10, Epoch 10/10, Loss: 0.3166, Correct: 4886, Accuracy: 0.8900
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 7/10, Epoch 1/10, Loss: 1.1287, Correct: 3228, Accuracy: 0.5880
+Shadow Model 7/10, Epoch 2/10, Loss: 0.8047, Correct: 3869, Accuracy: 0.7047
+Shadow Model 7/10, Epoch 3/10, Loss: 0.7055, Correct: 4113, Accuracy: 0.7492
+Shadow Model 7/10, Epoch 4/10, Loss: 0.6112, Correct: 4289, Accuracy: 0.7812
+Shadow Model 7/10, Epoch 5/10, Loss: 0.5247, Correct: 4448, Accuracy: 0.8102
+Shadow Model 7/10, Epoch 6/10, Loss: 0.4531, Correct: 4612, Accuracy: 0.8401
+Shadow Model 7/10, Epoch 7/10, Loss: 0.4450, Correct: 4587, Accuracy: 0.8355
+Shadow Model 7/10, Epoch 8/10, Loss: 0.3917, Correct: 4706, Accuracy: 0.8572
+Shadow Model 7/10, Epoch 9/10, Loss: 0.3312, Correct: 4856, Accuracy: 0.8845
+Shadow Model 7/10, Epoch 10/10, Loss: 0.2866, Correct: 4924, Accuracy: 0.8969
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 8/10, Epoch 1/10, Loss: 1.1593, Correct: 3148, Accuracy: 0.5734
+Shadow Model 8/10, Epoch 2/10, Loss: 0.8255, Correct: 3825, Accuracy: 0.6967
+Shadow Model 8/10, Epoch 3/10, Loss: 0.7349, Correct: 4065, Accuracy: 0.7404
+Shadow Model 8/10, Epoch 4/10, Loss: 0.6307, Correct: 4268, Accuracy: 0.7774
+Shadow Model 8/10, Epoch 5/10, Loss: 0.6278, Correct: 4303, Accuracy: 0.7838
+Shadow Model 8/10, Epoch 6/10, Loss: 0.5378, Correct: 4465, Accuracy: 0.8133
+Shadow Model 8/10, Epoch 7/10, Loss: 0.4495, Correct: 4603, Accuracy: 0.8384
+Shadow Model 8/10, Epoch 8/10, Loss: 0.4282, Correct: 4673, Accuracy: 0.8512
+Shadow Model 8/10, Epoch 9/10, Loss: 0.4633, Correct: 4593, Accuracy: 0.8366
+Shadow Model 8/10, Epoch 10/10, Loss: 0.4138, Correct: 4675, Accuracy: 0.8515
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 9/10, Epoch 1/10, Loss: 1.1598, Correct: 3223, Accuracy: 0.5871
+Shadow Model 9/10, Epoch 2/10, Loss: 0.9039, Correct: 3711, Accuracy: 0.6760
+Shadow Model 9/10, Epoch 3/10, Loss: 0.7486, Correct: 3986, Accuracy: 0.7260
+Shadow Model 9/10, Epoch 4/10, Loss: 0.6255, Correct: 4249, Accuracy: 0.7740
+Shadow Model 9/10, Epoch 5/10, Loss: 0.5676, Correct: 4381, Accuracy: 0.7980
+Shadow Model 9/10, Epoch 6/10, Loss: 0.4855, Correct: 4543, Accuracy: 0.8275
+Shadow Model 9/10, Epoch 7/10, Loss: 0.4799, Correct: 4566, Accuracy: 0.8317
+Shadow Model 9/10, Epoch 8/10, Loss: 0.4025, Correct: 4717, Accuracy: 0.8592
+Shadow Model 9/10, Epoch 9/10, Loss: 0.3785, Correct: 4760, Accuracy: 0.8670
+Shadow Model 9/10, Epoch 10/10, Loss: 0.3276, Correct: 4856, Accuracy: 0.8845
+  Min count per (class, membership) group: 610
+  Samples per group selected as IN: 305
+  Class 0 | membership=0: 761 total → 305 IN selected
+  Class 0 | membership=1: 754 total → 305 IN selected
+  Class 1 | membership=0: 774 total → 305 IN selected
+  Class 1 | membership=1: 774 total → 305 IN selected
+  Class 2 | membership=0: 750 total → 305 IN selected
+  Class 2 | membership=1: 796 total → 305 IN selected
+  Class 3 | membership=0: 783 total → 305 IN selected
+  Class 3 | membership=1: 798 total → 305 IN selected
+  Class 4 | membership=0: 688 total → 305 IN selected
+  Class 4 | membership=1: 660 total → 305 IN selected
+  Class 5 | membership=0: 897 total → 305 IN selected
+  Class 5 | membership=1: 898 total → 305 IN selected
+  Class 6 | membership=0: 612 total → 305 IN selected
+  Class 6 | membership=1: 610 total → 305 IN selected
+  Class 7 | membership=0: 740 total → 305 IN selected
+  Class 7 | membership=1: 665 total → 305 IN selected
+  Class 8 | membership=0: 995 total → 305 IN selected
+  Class 8 | membership=1: 1045 total → 305 IN selected
+Shadow Model 10/10, Epoch 1/10, Loss: 1.1965, Correct: 3073, Accuracy: 0.5597
+Shadow Model 10/10, Epoch 2/10, Loss: 0.8725, Correct: 3777, Accuracy: 0.6880
+Shadow Model 10/10, Epoch 3/10, Loss: 0.6827, Correct: 4143, Accuracy: 0.7546
+Shadow Model 10/10, Epoch 4/10, Loss: 0.6009, Correct: 4307, Accuracy: 0.7845
+Shadow Model 10/10, Epoch 5/10, Loss: 0.5372, Correct: 4422, Accuracy: 0.8055
+Shadow Model 10/10, Epoch 6/10, Loss: 0.4901, Correct: 4504, Accuracy: 0.8204
+Shadow Model 10/10, Epoch 7/10, Loss: 0.4464, Correct: 4612, Accuracy: 0.8401
+Shadow Model 10/10, Epoch 8/10, Loss: 0.4158, Correct: 4686, Accuracy: 0.8536
+Shadow Model 10/10, Epoch 9/10, Loss: 0.3668, Correct: 4798, Accuracy: 0.8740
+Shadow Model 10/10, Epoch 10/10, Loss: 0.3279, Correct: 4871, Accuracy: 0.8872
+Min count per class (IN or OUT): 6100
+Attack X per class distribution before balancing: {np.int64(8): {'in': 6100, 'out': 14300}, np.int64(2): {'in': 6100, 'out': 9360}, np.int64(0): {'in': 6100, 'out': 9050}, np.int64(4): {'in': 6100, 'out': 7380}, np.int64(3): {'in': 6100, 'out': 9710}, np.int64(1): {'in': 6100, 'out': 9380}, np.int64(7): {'in': 6100, 'out': 7950}, np.int64(6): {'in': 6100, 'out': 6120}, np.int64(5): {'in': 6100, 'out': 11850}}
+Class 0: 6100 IN + 6100 OUT = 12200 total
+Class 1: 6100 IN + 6100 OUT = 12200 total
+Class 2: 6100 IN + 6100 OUT = 12200 total
+Class 3: 6100 IN + 6100 OUT = 12200 total
+Class 4: 6100 IN + 6100 OUT = 12200 total
+Class 5: 6100 IN + 6100 OUT = 12200 total
+Class 6: 6100 IN + 6100 OUT = 12200 total
+Class 7: 6100 IN + 6100 OUT = 12200 total
+Class 8: 6100 IN + 6100 OUT = 12200 total
+
+--- Attack Dataset ---
+(109800, 11) (109800,)
+Attack training set: (87840, 11), (87840,)
+Attack validation set: (21960, 11), (21960,)
+
+--- Training Attack Model ---
+Initializing attack model, optimizer
+Starting attack model training loop
+Epoch 1/50 | Val Loss: 0.6911 Acc: 0.5189 | AUC: 0.5201 TPR@5%FPR: 0.0502
+Epoch 2/50 | Val Loss: 0.6916 Acc: 0.5254 | AUC: 0.5323 TPR@5%FPR: 0.0586
+Epoch 3/50 | Val Loss: 0.6907 Acc: 0.5251 | AUC: 0.5290 TPR@5%FPR: 0.0497
+Epoch 4/50 | Val Loss: 0.6906 Acc: 0.5262 | AUC: 0.5327 TPR@5%FPR: 0.0540
+Epoch 5/50 | Val Loss: 0.6906 Acc: 0.5242 | AUC: 0.5323 TPR@5%FPR: 0.0509
+Epoch 6/50 | Val Loss: 0.6905 Acc: 0.5268 | AUC: 0.5319 TPR@5%FPR: 0.0530
+Epoch 7/50 | Val Loss: 0.6908 Acc: 0.5260 | AUC: 0.5328 TPR@5%FPR: 0.0549
+Epoch 8/50 | Val Loss: 0.6910 Acc: 0.5256 | AUC: 0.5339 TPR@5%FPR: 0.0569
+Epoch 9/50 | Val Loss: 0.6909 Acc: 0.5216 | AUC: 0.5290 TPR@5%FPR: 0.0522
+Epoch 10/50 | Val Loss: 0.6905 Acc: 0.5253 | AUC: 0.5327 TPR@5%FPR: 0.0506
+Epoch 11/50 | Val Loss: 0.6905 Acc: 0.5265 | AUC: 0.5315 TPR@5%FPR: 0.0541
+Epoch 12/50 | Val Loss: 0.6909 Acc: 0.5242 | AUC: 0.5323 TPR@5%FPR: 0.0523
+Epoch 13/50 | Val Loss: 0.6909 Acc: 0.5235 | AUC: 0.5295 TPR@5%FPR: 0.0513
+Epoch 14/50 | Val Loss: 0.6912 Acc: 0.5267 | AUC: 0.5321 TPR@5%FPR: 0.0521
+Epoch 15/50 | Val Loss: 0.6908 Acc: 0.5247 | AUC: 0.5318 TPR@5%FPR: 0.0526
+Epoch 16/50 | Val Loss: 0.6905 Acc: 0.5257 | AUC: 0.5317 TPR@5%FPR: 0.0489
+Epoch 17/50 | Val Loss: 0.6906 Acc: 0.5245 | AUC: 0.5292 TPR@5%FPR: 0.0506
+Epoch 18/50 | Val Loss: 0.6906 Acc: 0.5269 | AUC: 0.5318 TPR@5%FPR: 0.0514
+Epoch 19/50 | Val Loss: 0.6908 Acc: 0.5250 | AUC: 0.5265 TPR@5%FPR: 0.0496
+Epoch 20/50 | Val Loss: 0.6908 Acc: 0.5260 | AUC: 0.5304 TPR@5%FPR: 0.0501
+Epoch 21/50 | Val Loss: 0.6905 Acc: 0.5252 | AUC: 0.5319 TPR@5%FPR: 0.0502
+Epoch 22/50 | Val Loss: 0.6909 Acc: 0.5240 | AUC: 0.5254 TPR@5%FPR: 0.0494
+Epoch 23/50 | Val Loss: 0.6905 Acc: 0.5270 | AUC: 0.5317 TPR@5%FPR: 0.0503
+Epoch 24/50 | Val Loss: 0.6907 Acc: 0.5241 | AUC: 0.5305 TPR@5%FPR: 0.0516
+Epoch 25/50 | Val Loss: 0.6907 Acc: 0.5268 | AUC: 0.5338 TPR@5%FPR: 0.0572
+Epoch 26/50 | Val Loss: 0.6907 Acc: 0.5235 | AUC: 0.5300 TPR@5%FPR: 0.0515
+Epoch 27/50 | Val Loss: 0.6907 Acc: 0.5255 | AUC: 0.5302 TPR@5%FPR: 0.0517
+Epoch 28/50 | Val Loss: 0.6905 Acc: 0.5258 | AUC: 0.5298 TPR@5%FPR: 0.0492
+Epoch 29/50 | Val Loss: 0.6905 Acc: 0.5250 | AUC: 0.5303 TPR@5%FPR: 0.0521
+Epoch 30/50 | Val Loss: 0.6910 Acc: 0.5250 | AUC: 0.5306 TPR@5%FPR: 0.0543
+Epoch 31/50 | Val Loss: 0.6905 Acc: 0.5256 | AUC: 0.5310 TPR@5%FPR: 0.0522
+Epoch 32/50 | Val Loss: 0.6906 Acc: 0.5254 | AUC: 0.5313 TPR@5%FPR: 0.0534
+Epoch 33/50 | Val Loss: 0.6907 Acc: 0.5247 | AUC: 0.5311 TPR@5%FPR: 0.0547
+Epoch 34/50 | Val Loss: 0.6907 Acc: 0.5235 | AUC: 0.5274 TPR@5%FPR: 0.0544
+Epoch 35/50 | Val Loss: 0.6908 Acc: 0.5226 | AUC: 0.5266 TPR@5%FPR: 0.0481
+Epoch 36/50 | Val Loss: 0.6905 Acc: 0.5246 | AUC: 0.5283 TPR@5%FPR: 0.0505
+Epoch 37/50 | Val Loss: 0.6904 Acc: 0.5244 | AUC: 0.5308 TPR@5%FPR: 0.0533
+Epoch 38/50 | Val Loss: 0.6906 Acc: 0.5270 | AUC: 0.5301 TPR@5%FPR: 0.0510
+Epoch 39/50 | Val Loss: 0.6906 Acc: 0.5245 | AUC: 0.5301 TPR@5%FPR: 0.0490
+Epoch 40/50 | Val Loss: 0.6904 Acc: 0.5259 | AUC: 0.5315 TPR@5%FPR: 0.0513
+Epoch 41/50 | Val Loss: 0.6907 Acc: 0.5257 | AUC: 0.5300 TPR@5%FPR: 0.0489
+Epoch 42/50 | Val Loss: 0.6907 Acc: 0.5266 | AUC: 0.5297 TPR@5%FPR: 0.0493
+Epoch 43/50 | Val Loss: 0.6905 Acc: 0.5245 | AUC: 0.5283 TPR@5%FPR: 0.0505
+Epoch 44/50 | Val Loss: 0.6906 Acc: 0.5252 | AUC: 0.5304 TPR@5%FPR: 0.0556
+Epoch 45/50 | Val Loss: 0.6904 Acc: 0.5246 | AUC: 0.5288 TPR@5%FPR: 0.0508
+Epoch 46/50 | Val Loss: 0.6906 Acc: 0.5238 | AUC: 0.5309 TPR@5%FPR: 0.0529
+Epoch 47/50 | Val Loss: 0.6905 Acc: 0.5250 | AUC: 0.5312 TPR@5%FPR: 0.0533
+Epoch 48/50 | Val Loss: 0.6906 Acc: 0.5233 | AUC: 0.5283 TPR@5%FPR: 0.0527
+Epoch 49/50 | Val Loss: 0.6911 Acc: 0.5256 | AUC: 0.5305 TPR@5%FPR: 0.0533
+Epoch 50/50 | Val Loss: 0.6909 Acc: 0.5117 | AUC: 0.5284 TPR@5%FPR: 0.0495
+Loading model...
+
+--- Predicting Membership ---
+Saved: /scratch/bjoshi/TML/submission.csv
